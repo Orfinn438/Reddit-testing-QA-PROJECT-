@@ -30,9 +30,7 @@ This project demonstrates end-to-end QA testing of the Reddit platform across we
 - Notion (documentation)
 - Testrail 
 ---
-
 ## Deliverables
-
 - Test Plan
 - Test Cases
 - Checklists
@@ -41,7 +39,6 @@ This project demonstrates end-to-end QA testing of the Reddit platform across we
 - Test Summary Report
 - Api testing 
 ---
-
 ## Key Achievements
 
 - Created 40+ test cases and checklists
@@ -49,9 +46,7 @@ This project demonstrates end-to-end QA testing of the Reddit platform across we
 - Tested major user flows and UI elements
 - Performed functional and regression testing
 - Improved understanding of QA processes
-
 ---
-
 ## Testing Types
 
 - Manual Testing
