@@ -1,12 +1,8 @@
 # Reddit-testing-QA-PROJECT-
 ---
-
 ## Overview
-
 This project demonstrates end-to-end QA testing of the Reddit platform across web, mobile, and desktop environments.
-
 ---
-
 ## Scope
 
 - Functional Testing
