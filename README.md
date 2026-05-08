@@ -41,7 +41,7 @@ This project demonstrates end-to-end QA testing of the Reddit platform across we
 ---
 ## Key Achievements
 
-- Created 40+ test cases and checklists
+- Created 400+ test cases and checklists
 - Identified and documented multiple bugs
 - Tested major user flows and UI elements
 - Performed functional and regression testing
