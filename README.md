@@ -28,7 +28,7 @@ This project demonstrates end-to-end QA testing of the Reddit platform across we
 - Postman (API testing)
 - DevTools
 - Notion (documentation)
-
+- Testrail 
 ---
 
 ## Deliverables
@@ -39,12 +39,12 @@ This project demonstrates end-to-end QA testing of the Reddit platform across we
 - Test Scenarios
 - Bug Reports
 - Test Summary Report
-
+- Api testing 
 ---
 
 ## Key Achievements
 
-- Created 60+ test cases and checklists
+- Created 40+ test cases and checklists
 - Identified and documented multiple bugs
 - Tested major user flows and UI elements
 - Performed functional and regression testing
