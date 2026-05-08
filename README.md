@@ -1,6 +1,4 @@
 # Reddit-testing-QA-PROJECT-
-# QA Testing Project – Reddit Platform
-
 ---
 
 ## Overview
